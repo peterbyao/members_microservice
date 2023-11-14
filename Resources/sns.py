@@ -13,7 +13,7 @@ def aws_sns(message, subject):
 
         # Example message and subject
         # message = {"member_id": 123,
-        #            "member_name": 50.00,
+        #            "member_name": "Test Trader",
         #            "portfolio_value": 1000000,
         #            "age": 23}
         # subject = "ADD_MEMBER"
